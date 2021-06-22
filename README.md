@@ -1,0 +1,1 @@
+Minha primeira aplicação em React Native
